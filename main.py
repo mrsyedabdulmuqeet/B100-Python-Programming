@@ -7,8 +7,8 @@ from models import Visitor, TourGuide, BookingSystem
 from storage import load_landmarks, log_transaction
 
 # Define file paths
-DATA_FILE = "data/landmarks.csv"
-LOG_FILE = "data/transactions.txt"
+DATA_FILE = "landmarks.csv"
+LOG_FILE = "transactions.txt"
 
 def initialize_system() -> BookingSystem:
     """Bootstraps the system by loading the manual CSV data."""
