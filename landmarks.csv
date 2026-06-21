@@ -1,0 +1,16 @@
+landmark_id,name,location,max_capacity
+L001,Brandenburg Gate,Berlin,500
+L002,Neuschwanstein Castle,Bavaria,300
+L003,Cologne Cathedral,Cologne,800
+L004,Reichstag Building,Berlin,250
+L005,Berlin Wall Memorial,Berlin,400
+L006,Marienplatz,Munich,600
+L007,Miniatur Wunderland,Hamburg,200
+L008,Zwinger Palace,Dresden,350
+L009,Heidelberg Castle,Heidelberg,450
+L010,Museum Island,Berlin,700
+L011,Sanssouci Palace,Potsdam,150
+L012,Black Forest Open Air Museum,Gutach,300
+L013,Zugspitze Summit,Garmisch-Partenkirchen,100
+L014,Aachen Cathedral,Aachen,400
+L015,Checkpoint Charlie,Berlin,250
