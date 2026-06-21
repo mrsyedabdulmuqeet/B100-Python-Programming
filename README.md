@@ -18,8 +18,8 @@ The project is modularly structured to enhance code readability and maintainabil
 * `main.py` - The execution root containing the interactive terminal interface and control structures.
 * `models.py` - Contains the core Object-Oriented models (`Landmark`, `Visitor`, `TourGuide`, `BookingSystem`).
 * `storage.py` - Handles all file input/output mechanisms and transaction logging.
-* `data/landmarks.csv` - A manually curated flat-file database containing the master list of 15 German heritage sites and their capacities.
-* `data/transactions.txt` - An auto-generated log file that safely stores records of all successful booking transactions.
+* `landmarks.csv` - A manually curated flat-file database containing the master list of 15 German heritage sites and their capacities.
+* `transactions.txt` - An auto-generated log file that safely stores records of all successful booking transactions.
 
 ## Installation and Execution Instructions
 This project requires no external libraries (like Pandas or NumPy) and runs purely on Python's standard library.
